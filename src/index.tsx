@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+//import styling from bootstrap
+import './bootstrap/bootstrap.css';
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
